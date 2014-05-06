@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5DC8AA2B-E7AC-405D-85B3-F0FE05D8476F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YashApp1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CDADFF10-EEC9-4F52-A46E-714B7E4C4A51</key>
+		<string>https://github.com/jagdevsendhav/YashApps.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YashApp1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CDADFF10-EEC9-4F52-A46E-714B7E4C4A51</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jagdevsendhav/YashApps.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CDADFF10-EEC9-4F52-A46E-714B7E4C4A51</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CDADFF10-EEC9-4F52-A46E-714B7E4C4A51</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YashApp1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
